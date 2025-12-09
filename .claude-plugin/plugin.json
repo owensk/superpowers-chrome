@@ -6,8 +6,8 @@
     "name": "Jesse Vincent",
     "email": "jesse@fsck.com"
   },
-  "homepage": "https://github.com/obra/superpowers-chrome",
-  "repository": "https://github.com/obra/superpowers-chrome",
+  "homepage": "https://github.com/owensk/superpowers-chrome",
+  "repository": "https://github.com/owensk/superpowers-chrome",
   "license": "MIT",
   "keywords": ["chrome", "browser", "automation", "devtools", "cdp", "websocket"],
   "agents": ["./agents/browser-user.md"],
